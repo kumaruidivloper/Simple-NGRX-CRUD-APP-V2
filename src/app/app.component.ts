@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Simple-NGXS-CRUD-APP-V2';
+  title = 'Simple-NGRX-CRUD-APP-V2';
 }
